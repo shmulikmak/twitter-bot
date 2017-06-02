@@ -1,0 +1,17 @@
+{
+  "name": "shmulik-backend",
+  "version": "1.0.0",
+  "description": "tweets from airbnb to csv",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shmulikmak",
+  "license": "ISC",
+  "dependencies": {
+    "json2csv": "^3.7.3",
+    "nodemailer": "^3.1.7"
+
+  }
+}
