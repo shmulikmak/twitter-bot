@@ -1,7 +1,7 @@
 
 ## Twitter bot
 
-fetching the last-day twits from "airbnb"-twitter to csv and send the file to mail
+fetching the last-day tweets from "airbnb"-twitter to csv and sends the file to an email
 
 
 ## Development server
